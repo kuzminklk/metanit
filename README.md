@@ -1,6 +1,6 @@
 
-### Purpose 
-Detached repository for Metanit study materials
+### Description 
+Detached repository for [Metanit](https://metanit.com/) study materials
 
-### Associations
-More information, study path, summary in [detached Notion Page](https://www.notion.so/kuzminklk/Metanit-31b54d4de035802ebd61e73209f0e730?source=copy_link)
+### Purpose
+Part of computer-science study curriculum availabe in [Notion](https://app.notion.com/p/kuzminklk/31154d4de03580d7b5ceca5b187846be) (private for now)
