@@ -1,0 +1,3 @@
+[submodule "common/gallery"]
+	path = common/gallery
+	url = git@github.com:kuzminklk/gallery.git
