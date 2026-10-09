@@ -1,6 +1,5 @@
-
 try:
-    myfile = open("file.txt", "a+")
+	myfile = open("file.txt", "a+")
 
 finally:
-    myfile.close()
+	myfile.close()

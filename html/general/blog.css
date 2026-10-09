@@ -1,22 +1,23 @@
 ::selection {
-    color: white;
-    background-color: black;
+	color: white;
+	background-color: black;
 }
 
 body {
-    letter-spacing: 1px;
-    word-spacing: 2px;
+	letter-spacing: 1px;
+	word-spacing: 2px;
 }
 
-a:link, a:visited, a{
-    text-decoration: none;
-    color: rgb(155, 0, 0)
+a:link,
+a:visited,
+a {
+	text-decoration: none;
+	color: rgb(155, 0, 0);
 }
 
 a:hover {
-    color: rgb(94, 10, 10)
+	color: rgb(94, 10, 10);
 }
-
 
 /* Gradients
 body {
@@ -30,7 +31,6 @@ body {
     height: 100vh;
 }
 */
-
 
 /* Float, Outline, Shadow, BG
 .comments {

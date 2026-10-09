@@ -1,7 +1,7 @@
-x = int(input('x: '))
-y = int(input('y: '))
+x = int(input("x: "))
+y = int(input("y: "))
 
 if x > y:
-    print("x>y")
+	print("x>y")
 else:
-    print("not x>y")
+	print("not x>y")

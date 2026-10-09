@@ -7,6 +7,6 @@ print("Hello, " + name)
 Multiline string as Multiline comment
 """
 
-'''
+"""
 Multiline string as Also multiline comment
-'''
+"""

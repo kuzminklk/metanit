@@ -1,7 +1,8 @@
 def hello(name):
-    print("Hello " + name)
+	print("Hello " + name)
 
-x = 'user'
+
+x = "user"
 y = input("Name: ")
 
 hello(x)

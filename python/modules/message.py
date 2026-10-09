@@ -1,11 +1,13 @@
-
 def say():
-    print(message)
+	print(message)
+
 
 message = "Hello!"
 
+
 def main():
-    say()
+	say()
+
 
 if __name__ == "__main__":
-    main()
+	main()

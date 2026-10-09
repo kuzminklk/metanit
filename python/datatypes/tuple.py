@@ -1,4 +1,4 @@
-args = (1,2,3)
+args = (1, 2, 3)
 
 func(*args)
 

@@ -1,10 +1,12 @@
 import timeit
 
+
 def sum():
-    result = 0
-    for i in range(10000):
-        result +=i
-    return result
+	result = 0
+	for i in range(10000):
+		result += i
+	return result
+
 
 print(sum())
 

@@ -2,7 +2,7 @@ string1 = "Alex Sam Don Joe"
 
 names = string1.split()
 for name in names:
-    print(name)
+	print(name)
 
-text = ' -|- '.join(names)
+text = " -|- ".join(names)
 print(text)

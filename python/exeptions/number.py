@@ -1,6 +1,6 @@
 try:
-    x = int(input("Number: "))
-    print(f"Number is - {x}")
+	x = int(input("Number: "))
+	print(f"Number is - {x}")
 except ValueError:
-    print("Error")
+	print("Error")
 print("Exit")

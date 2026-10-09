@@ -19,12 +19,12 @@ names.remove("Max")
 del names[1]
 
 for name in names:
-    print(name)
+	print(name)
 
 print("---------------")
 
 if "Alice" in names:
-    print("Alice here!")
+	print("Alice here!")
 
 print("---------------")
 
@@ -35,7 +35,7 @@ print("---------------")
 names.sort(key=str.lower)
 
 for name in names:
-    print(name)
+	print(name)
 
 
 print("---------------")
@@ -44,13 +44,12 @@ print("---------------")
 names.reverse()
 
 for name in names:
-    print(name)
+	print(name)
 
 
 print("---------------")
 
 sortednames = sorted(names)
-
 
 
 """

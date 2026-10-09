@@ -1,9 +1,11 @@
 name = "Alex"
 
+
 def hello():
-    global name
-    name = "Sam"
-    print("Hello " + name)
+	global name
+	name = "Sam"
+	print("Hello " + name)
+
 
 hello()
 print(name)
