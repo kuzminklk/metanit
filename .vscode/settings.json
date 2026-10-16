@@ -8,5 +8,8 @@
 	},
 	"[python]": {
 		"editor.defaultFormatter": "charliermarsh.ruff"
+	},
+	"[sql]": {
+		"editor.defaultFormatter": "sqlfluff.vscode-sqlfluff"
 	}
 }
